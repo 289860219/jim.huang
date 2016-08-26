@@ -1,0 +1,3 @@
+pubic void main(){
+system.printl.out("hello world!");
+}
